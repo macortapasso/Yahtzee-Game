@@ -1,0 +1,112 @@
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+D:\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+D:\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+D:\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+H:\sem2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csprojAssemblyReference.cache
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.cache
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.CoreCompileInputs.cache
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\n10031014\Downloads\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+D:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+D:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+D:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+D:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+D:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+D:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+D:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+D:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+D:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.CoreCompileInputs.cache
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+F:\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.CoreCompileInputs.cache
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+\\tsclient\D\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\ASUS\Desktop\DIPLOMA OF IT\Semester 2\ITD121\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+C:\Users\n10031014\Downloads\Yahtzee Game(1)(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\n10031014\Downloads\Yahtzee Game(1)(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\n10031014\Downloads\Yahtzee Game(1)(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+C:\Users\n10031014\Downloads\Yahtzee Game(1)(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\n10031014\Downloads\Yahtzee Game(1)(1)\Yahtzee Game(1)\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\n10031014\Downloads\Yahtzee Game(1)(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csprojResolveAssemblyReference.cache
+C:\Users\n10031014\Downloads\Yahtzee Game(1)(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\n10031014\Downloads\Yahtzee Game(1)(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\n10031014\Downloads\Yahtzee Game(1)(1)\Yahtzee Game(1)\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.Cache
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\obj\Debug\Yahtzee Game.csprojAssemblyReference.cache
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.cache
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.CoreCompileInputs.cache
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\MarcelAugusto\Desktop\Solution\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\bin\Debug\Yahtzee Game.exe.config
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\bin\Debug\Yahtzee Game.exe
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\bin\Debug\Yahtzee Game.pdb
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\obj\Debug\Yahtzee Game.csprojAssemblyReference.cache
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\obj\Debug\Yahtzee_Game.Form1.resources
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\obj\Debug\Yahtzee_Game.Properties.Resources.resources
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.GenerateResource.cache
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\obj\Debug\Yahtzee Game.csproj.CoreCompileInputs.cache
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\obj\Debug\Yahtzee Game.exe
+C:\Users\MarcelAugusto\Google Drive\GitHub\Yahtzee-Game\Yahtzee Game\obj\Debug\Yahtzee Game.pdb
